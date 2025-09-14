@@ -1,6 +1,6 @@
 // import Form from "./Forms/Form"
 import { Route, Routes } from "react-router-dom"
-import Dashboard from "./Pages/DashBoard"
+import Dashboard from "./Pages/Dashboard"
 import Login from "./Pages/Login"
 import Form from "./Forms/Placement_Form"
 import Student_Form from "./Forms/Student_Form"
